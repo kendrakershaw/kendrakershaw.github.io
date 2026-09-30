@@ -7,10 +7,8 @@ I am a M.S. Business Analytics student at California State University, San Marco
 
 ## Education
 
-**California State University San Marcos**
-
-Master of Science in Business Analytics
-
+**California State University San Marcos**\
+Master of Science in Business Analytics\
 *August 2026 - August 2027*
 
 **California State University San Marcos**
