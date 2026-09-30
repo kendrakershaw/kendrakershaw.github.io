@@ -4,7 +4,7 @@ layout: default
 # About Kendra Kershaw
 
 I am a M.S. Business Analytics student at California State University, San Marcos graduating in August 2027.\
-[View my LinkedIn Profile](www.linkedin.com/in/kendra-kershaw)
+[View my LinkedIn Profile](https://www.linkedin.com/in//kendra-kershaw)
 
 ## Education
 
