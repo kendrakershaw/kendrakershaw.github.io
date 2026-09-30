@@ -3,7 +3,8 @@ layout: default
 ---
 # About Kendra Kershaw
 
-I am a M.S. Business Analytics student at California State University, San Marcos graduating in August 2027. 
+I am a M.S. Business Analytics student at California State University, San Marcos graduating in August 2027.\
+[View my LinkedIn Profile](www.linkedin.com/in/kendra-kershaw)
 
 ## Education
 
@@ -39,7 +40,7 @@ August 2022 - May 2026
 
 - Developed an interactive Power BI dashboard with KPI metrics, geographical mapping, filters, and trend visualizations to display air quality patterns.
 
-Add link here
+[Click to View Project](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard)
 
 **Production Planning Optimization**\
 (Excel VBA)
