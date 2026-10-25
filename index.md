@@ -60,4 +60,5 @@ August 2022 - May 2026
 
 -  Strengthen professional skills in communication, leadership, and problem-solving.
 
-
+### Want to Make Your Own E-Portfolio?
+Use my [Guide](https://kendrakershaw.github.io/e-portfolio_guide/) to create your own e-portfolio GitHub Page using the minimal template. 
