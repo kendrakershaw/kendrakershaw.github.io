@@ -12,7 +12,7 @@ Create a GitHub account, if you do not already have one. First, I created a repo
 Download the [`minimal`](https://github.com/pages-themes/minimal) theme template. Add it to the repository that was just created. 
 
 To download the [`minimal`](https://github.com/pages-themes/minimal) theme:
-1. Open `Minimal` theme repository
+1. Open `Minimal` theme repository.
 2. Click the green **Code** button.
 3. Click **Download ZIP**
 4. Extract the downloaded ZIP file. 
