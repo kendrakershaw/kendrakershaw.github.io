@@ -23,18 +23,21 @@ Clone the portfolio repository to the computer and open it in VSCode to make cha
 
 Next, move the extracted theme files into the local portfolio repository. Commit the changes and push them to GitHub. 
 
-## Step 4A: Set Up the Theme
+## Step 4: Set Up the Page
+
+### Step 4A: Set Up the Title and Description
 
 In the `_config.yml` edit the title, logo, and description. 
 
 ![screenshot](/assets/img/config_ss.png)
 
-## Step 4B: Replace the Stock Logo with a Headshot
+### Step 4B: Replace the Stock Logo with a Headshot
 
 The theme includes a stock image, and you should replace with a headshot. 
 
 1. Save the headshot as `logo.png` to replace the orginal logo with the headshot. 
-2. Ensure the logo:`____` in `_config.yml` matches the name assigned to the headshot in the `img` folder. 
+2. Ensure the `logo:/assets/img/<name_of_image>.png` in as `_config.yml` file 
+matches the name assigned to the headshot in the `img` folder. 
 
 ## Step 5: Write the Homepage
 
@@ -63,6 +66,8 @@ Then, navigate to the e-portfolio page to confirm the logo and text are in corre
 The completed e-portfolio is a great place to showcase education, experience, projects, and anything else you may want to add. It can be linked in a resume, on LinkedIn, and shared in job applications so potential employers can easily navigate examples of your work. 
 
 You can easily add new projects and new experiences by repeating Step 5 and Step 6. 
+
+![screenshot](/assets/img/my_portfolio_ss.png)
 
 ## References
 
