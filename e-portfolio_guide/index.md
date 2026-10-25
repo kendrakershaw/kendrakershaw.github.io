@@ -27,7 +27,7 @@ Next, move the extracted theme files into the local portfolio repository. Commit
 
 In the `_config.yml` edit the title, logo, and description. 
 
-[screenshot](config_ss.png)
+![screenshot](/assets/img/config_ss.png)
 
 ## Step 4B: Replace the Stock Logo with a Headshot
 
