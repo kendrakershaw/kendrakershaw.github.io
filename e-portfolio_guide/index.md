@@ -68,6 +68,7 @@ The completed e-portfolio is a great place to showcase education, experience, pr
 You can easily add new projects and new experiences by repeating Step 5 and Step 6. 
 
 ![screenshot](/assets/img/my_portfolio_ss.png)
+See my full portfolio [Here](https://kendrakershaw.github.io/)
 
 ## References
 
