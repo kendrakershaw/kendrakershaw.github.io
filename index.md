@@ -35,6 +35,14 @@ August 2022 - May 2026
 
 ## Projects
 
+**Universal Bank Personal Loan Classification**\
+(R)
+- explain...
+- explain...
+- explain...
+
+[Click to View Project](https://github.com/kendrakershaw/bank_loan_classification)
+
 **San Diego Air Quality Dashboard**\
 (Power BI and R)
 - Analyzed air quality across 13 San Diego County monitoring sites to identify patterns across locations and over time.
