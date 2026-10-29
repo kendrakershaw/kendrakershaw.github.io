@@ -37,9 +37,11 @@ August 2022 - May 2026
 
 **Universal Bank Personal Loan Classification**\
 (R)
-- explain...
-- explain...
-- explain...
+- Cleaned and analyzed 5,000 customer records in R, using forward stepwise feature selection to identify key predictors in personal loan acceptance.
+
+- Developed and compared logistic regression, decision tree, and artificial neural network models, reaching 98.5% and 92.9% precision with the decision tree.
+
+- Identified customer segments most likely to accept a personal loan and recommended focusing marketing efforts on these customers to reduce outreach costs.
 
 [Click to View Project](https://github.com/kendrakershaw/bank_loan_classification)
 
