@@ -1,6 +1,6 @@
 # OM-620-Assignments
 
-[Click to view the project notebooks and data](https://github.com/kendrakershaw/OM-620-Assignments/blob/main/README.md)
+[Click to view the project notebooks and data](https://github.com/kendrakershaw/OM-620-Assignments/tree/main)
 
 ## Assignment 1
 This focuses on the data cleaning and preparation of the transaction data. In Python I corrected column names, corrected data types, and missing values. I also engineered a country feature by extracting the country code from manufacturing site codes. 
