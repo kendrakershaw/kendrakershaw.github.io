@@ -35,7 +35,8 @@ August 2022 - May 2026
 
 ## Projects
 
-**Safety Stock Planning — In Progress**\(Python)
+**Safety Stock Planning — In Progress**\
+(Python)
 - Cleaned inventory transaction data by addressing N/A values, changing data types, and correcting unusual outliers. 
 - Engineered a country feature from the manufacturing site code.
 - Calculated the safety stock for each SKU at 75%, 90%, and 95% service levels. 
