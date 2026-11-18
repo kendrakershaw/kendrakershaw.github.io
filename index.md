@@ -35,6 +35,13 @@ August 2022 - May 2026
 
 ## Projects
 
+**Safety Stock Planning — In Progress**\(Python)
+- Cleaned inventory transaction data by addressing N/A values, changing data types, and correcting unusual outliers. 
+- Engineered a country feature from the manufacturing site code.
+- Calculated the safety stock for each SKU at 75%, 90%, and 95% service levels. 
+
+[Click to View Project](https://kendrakershaw.github.io/OM620_assignments/)
+
 **Universal Bank Personal Loan Classification**\
 (R)
 - Cleaned and analyzed 5,000 customer records in R, using forward stepwise feature selection to identify key predictors in personal loan acceptance.
