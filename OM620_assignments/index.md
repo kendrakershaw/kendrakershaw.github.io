@@ -9,7 +9,6 @@ This focuses on the data cleaning and preparation of the transaction data. In Py
 
 - Found 10 transactions with 2,800 day lead time and corrected it to 28 days, assuming it was a data-entry error.
 - Corrected about 40,000 negative order quantities to positive values.
-- Removed 170 transactions that did not include the SKU number.
 - Changed the remaining NA values to "Missing".
 - Created a column that tells us if the item is manufactured in the United States, Poland, Canada, or Japan.
 - Identified we are working with 368 SKU's, 19 different manufacturing sites, 54 known divisions, and item BB9C0690 has the greatest demand.
