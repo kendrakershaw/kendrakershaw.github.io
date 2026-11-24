@@ -7,6 +7,8 @@ This focuses on the data cleaning and preparation of the transaction data. In Py
 
 **Important Findings:**
 
+- Performed data cleaning and data preprocessing, corrected data types.
+![screenshot](/assets/img/data_type.png)
 - Found 10 transactions with 2,800 day lead time and corrected it to 28 days, assuming it was a data-entry error.
 - Corrected about 40,000 negative order quantities to positive values.
 - Changed the remaining NA values to "Missing".
@@ -18,6 +20,7 @@ This focuses on make to stock (MTS) items and calculating the safety stock for e
 
 **Important Findings:**
 - Calculated the service level coefficients for 75%, 90% and 95% with a standard normal distribution.
+![screenshot](/assets/img/ss_calculation.png)
 - Calculated the safety stock for each SKU at all 3 service levels.
 - Identified which SKU's have highest and lowest safety stock, as well as the average.
 
